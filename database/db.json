@@ -1,0 +1,4 @@
+{"users":
+[{"id":"5086d4c7-c007-4ec5-952a-ef942520119e", "name":"Umair Khalid","role":"Senior Software Engineer","posts": [{"id": 1, "message": "Hi this umair first post"}, {"id": 2, "message": "Hi this umair second post"}]},
+{"id":"cd20da3e-6ac2-482c-a5a2-ca9c3eb6c0f3", "name":"Haider Rizvi","role":"Engineer", "posts": [{"id": 1, "message": "Haider Rizvi post"}]}]
+}
